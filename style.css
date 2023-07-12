@@ -13,6 +13,16 @@ body {
     align-items: center;
 
 }
+
+.d1:hover{
+    border: 1.65px solid #358ED736;
+    background-image: url(./Icon\ \(5\).png);
+    background-repeat: no-repeat;
+    background-position-x:315px;
+   
+   
+    
+}
 .d1 {
     box-shadow: 0.82374507188797px 1.64749014377594px 2.4712350368499756px 0px #00000019;
     height: 354px;
